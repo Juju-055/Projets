@@ -1,0 +1,26 @@
+h1 {
+	text-align: left;
+	text-decoration: underline;
+	font-size: 30px;
+	font-style: italic;
+	color : #81F781;
+	
+}
+
+h2 {
+	text-align: left;
+	font-style: italic;
+	color: #A9F5D0;
+	background-color: light-green;
+	
+}
+	
+p {
+	font family: Verdana;
+	color:white
+}
+body {
+	background-image:url("My-Neighbor-Totoro-Hayao.jpg");
+	background-size: 100%;
+	
+
